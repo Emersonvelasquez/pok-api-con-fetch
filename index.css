@@ -1,0 +1,13 @@
+.poken{
+    text-align: center;
+}
+.fondo{
+    background-image: url(/assets/img/amarilla2.jpg);
+}
+.card-body{
+    border-radius: 5px;
+    box-shadow: inset 0 0 15px 10px yellow;
+}
+#fondo2{
+    background-image: url(/assets/img/amarilla2.jpg); 
+}
